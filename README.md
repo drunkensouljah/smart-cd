@@ -1,9 +1,11 @@
 smart-cd
 ========
 
-zsh plugin that runs `ls` and `git status` after chpwd
+zsh plugin that runs [colorls](https://github.com/athityakumar/colorls) and `git status` after `cd`
 
 Installation/usage
 ------------------
 
-    antigen bundle dbkaplun/smart-cd
+    antigen bundle drunkensouljah/smart-cd
+    
+    zplug drunkensouljah/smart-cd
